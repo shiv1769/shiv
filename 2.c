@@ -1,0 +1,3 @@
+void printhi(){
+printf("hi");
+}
